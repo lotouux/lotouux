@@ -1,43 +1,52 @@
 # ✨ Olá, seja bem-vindo(a)!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8E44AD&center=true&vCenter=true&width=435&lines=Hello+World!;Welcome+to+my+GitHub;Let's+build+the+future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8E44AD&center=true&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F7AEA&height=150&section=footer"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**.
 - 🏢 Futuro estagiário em **Automatização de Processos** na **T-Systems Brasil** (início: 7 de maio de 2025).
-- 💜 Entusiasta de tecnologia, desenvolvimento e **Inteligência Artificial**.
+- 💜 Entusiasta de tecnologia e desenvolvimento, com foco em **Inteligência Artificial**.
 - ✨ Sempre em busca de aprender, criar e transformar ideias em realidade!
 
 ---
 
-## 🛠️ Skills & Ferramentas
+## Linguagens
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript&theme=dark" /> </p>
 
+---
+
+## Ferramentas
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,figma,pycharm,vscode,oracle&theme=dark" /> </p>
+
+---
+
+## Frameworks
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /> </p>
+
+---
+
+## Meus DevCards
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,git,figma,oracle&theme=dark&perline=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lotouux&theme=tokyonight" alt="Detalhes do Perfil de lotouux" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lotouux&theme=tokyonight" alt="Linguagens Mais Usadas de lotouux" />   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lotouux&theme=tokyonight" alt="Linguagem Mais Comitada de lotouux" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lotouux&theme=tokyonight" alt="Estatísticas do GitHub de lotouux" />   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lotouux&theme=tokyonight&utcOffset=-3" alt="Tempo Produtivo de lotouux" />
 </p>
 
 ---
 
-## 📊 DevCards
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lotouux&theme=vue" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lotouux&theme=vue" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lotouux&theme=vue" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lotouux&theme=vue" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lotouux&theme=vue&utcOffset=-3" />
-</p>
-
----
-
-## 🌟 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto         | Descrição                     | Status             |
 |-----------------|-------------------------------|--------------------|
@@ -46,7 +55,7 @@
 
 ---
 
-## 📈 Minhas Estatísticas
+## Minhas Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lotouux&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
@@ -55,7 +64,7 @@
 
 ---
 
-## 📢 Vamos nos Conectar!
+## Conecções
 
 <p align="center">
   <a href="URL_DO_SEU_LINKEDIN" target="_blank">
@@ -68,7 +77,6 @@
 
 ---
 
-> *"Transformando sonhos em projetos, e projetos em realidade!"*
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Obrigado+por+visitar!&fontAlign=50&fontColor=ffffff&fontSize=30&background=gradient&color=8E44AD,BB6BD9,D2B4DE&animation=twinkling" alt="Thanks for visiting!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F7AEA&height=150&section=footer"/>
 </p>
