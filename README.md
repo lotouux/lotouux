@@ -1,4 +1,4 @@
-# ✨ Olá, seja bem-vindo(a)!
+# Olá, seja bem-vindo(a)!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8E44AD&center=true&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
@@ -43,7 +43,15 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lotouux&theme=tokyonight" alt="Estatísticas do GitHub de lotouux" />   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lotouux&theme=tokyonight&utcOffset=-3" alt="Tempo Produtivo de lotouux" />
 </p>
+---
 
+---
+## Minhas Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lotouux&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotouux&layout=compact&langs_count=8&theme=material-palenight"/>
+</p>
 ---
 
 ## Projetos em Destaque
@@ -55,25 +63,14 @@
 
 ---
 
-## Minhas Estatísticas
+## Contato
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lotouux&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotouux&layout=compact&langs_count=8&theme=material-palenight"/>
-</p>
-
----
-
-## Conecções
-
-<p align="center">
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8e44ad?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/beatriz-camargo-serafini-b8b667349/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-8e44ad?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL@dominio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-8e44ad?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:beatriz.c.serafini@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-8e44ad?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+  </p>
 
 ---
 
