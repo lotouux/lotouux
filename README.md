@@ -58,7 +58,7 @@
 
 | Projeto         | Descrição                     | Status             |
 |-----------------|-------------------------------|--------------------|
-| **SmartPay App**| App de controle financeiro     | Em desenvolvimento |
+| **Planix**| App de controle financeiro     | Em desenvolvimento |
 | **Portfólio Web** | Página pessoal de apresentação | Em breve           |
 
 ---
