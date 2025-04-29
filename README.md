@@ -1,78 +1,74 @@
-<h1 align="center">Olá, seja bem-vindo(a) ao meu GitHub! 🚀</h1>
+# ✨ Olá, seja bem-vindo(a)!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9F7AEA&size=24&center=true&vCenter=true&multiline=true&lines=Hello+World!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F7AEA&height=100&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8E44AD&center=true&vCenter=true&width=435&lines=Hello+World!;Welcome+to+my+GitHub;Let's+build+the+future" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- Banner principal -->
-<img src="LINK_DO_SEU_BANNER" alt="Banner" style="width: 100%; border-radius: 15px;"/>
+## 👨‍💻 Sobre Mim
 
-<br>
-
-## 🚀 Sobre Mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (FIAP)**.
-- 🏢 Futuro estagiário na **T-Systems do Brasil** (Automatização de Processos).
-- 🤖 Apaixonado por **Inteligência Artificial** e novas tecnologias.
-- ✨ Sempre em busca de aprendizado e evolução constante.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**.
+- 🏢 Futuro estagiário em **Automatização de Processos** na **T-Systems Brasil** (início: 7 de maio de 2025).
+- 💜 Entusiasta de tecnologia, desenvolvimento e **Inteligência Artificial**.
+- ✨ Sempre em busca de aprender, criar e transformar ideias em realidade!
 
 ---
 
-## 🔥 Agora Trabalhando Em:
-
-- Aprimorar minhas habilidades em Python e Java
-- Explorar mais sobre Bancos de Dados (SQL)
-- Me aprofundar em Inteligência Artificial
-
----
-
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Skills & Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-9F7AEA?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-6B46C1?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-422F88?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-5A32A3?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-7C3AED?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-5B21B6?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,git,figma,oracle&theme=dark&perline=6" />
 </p>
 
 ---
 
-## 📈 Estatísticas
+## 📊 DevCards
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lotouux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotouux&layout=compact&langs_count=8&theme=tokyonight" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lotouux&theme=vue" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lotouux&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lotouux&theme=vue" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lotouux&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lotouux&theme=vue&utcOffset=-3" />
 </p>
 
 ---
 
-## 🎯 Próximas Missões
+## 🌟 Projetos em Destaque
 
-| Tarefa | Status |
-|:------:|:------:|
-| Finalizar curso de Python | Em andamento |
-| Criar projeto pessoal | Planejando |
-| Estudar IA com foco em Machine Learning | Começando |
+| Projeto         | Descrição                     | Status             |
+|-----------------|-------------------------------|--------------------|
+| **SmartPay App**| App de controle financeiro     | Em desenvolvimento |
+| **Portfólio Web** | Página pessoal de apresentação | Em breve           |
 
 ---
 
-## 📬 Vamos Conversar?
+## 📈 Minhas Estatísticas
 
 <p align="center">
-  <a href="SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9F7AEA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Gmail-7F56D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lotouux&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotouux&layout=compact&langs_count=8&theme=material-palenight"/>
 </p>
 
 ---
 
+## 📢 Vamos nos Conectar!
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F7AEA&height=100&section=footer"/>
+  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8e44ad?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU_EMAIL@dominio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-8e44ad?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+> *"Transformando sonhos em projetos, e projetos em realidade!"*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Obrigado+por+visitar!&fontAlign=50&fontColor=ffffff&fontSize=30&background=gradient&color=8E44AD,BB6BD9,D2B4DE&animation=twinkling" alt="Thanks for visiting!" />
 </p>
