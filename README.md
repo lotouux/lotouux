@@ -3,9 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8E44AD&center=true&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F7AEA&height=150&section=footer"/>
-</p>
 
 ---
 
@@ -33,25 +30,18 @@
 
 ---
 
-## Meus DevCards
+## Minhas Estatísticas
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lotouux&theme=tokyonight" alt="Detalhes do Perfil de lotouux" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lotouux&theme=tokyonight" alt="Linguagens Mais Usadas de lotouux" />   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lotouux&theme=tokyonight" alt="Linguagem Mais Comitada de lotouux" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lotouux&theme=tokyonight" alt="Estatísticas do GitHub de lotouux" />   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lotouux&theme=tokyonight&utcOffset=-3" alt="Tempo Produtivo de lotouux" />
-</p>
----
 
 ---
-## Minhas Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lotouux&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotouux&layout=compact&langs_count=8&theme=material-palenight"/>
 </p>
+
 ---
 
 ## Projetos em Destaque
