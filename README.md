@@ -9,10 +9,9 @@
 ## Sobre Mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**.
-- 🏢 Futuro estagiário em **Automatização de Processos** na **T-Systems Brasil** (início: 7 de maio de 2025).
+- 🏢 Estagiária em **Automatização de Processos** na **T-Systems Brasil**
 - 💜 Entusiasta de tecnologia e desenvolvimento, com foco em **Inteligência Artificial**.
-- ✨ Sempre em busca de aprender, criar e transformar ideias em realidade!
-
+  
 ---
 
 ## Linguagens
