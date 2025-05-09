@@ -20,7 +20,17 @@
 ---
 
 ## Ferramentas
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,figma,pycharm,vscode,oracle&theme=dark" /> </p>
+<p align="center">
+  <!-- Ícones do SkillIcons -->
+  <img src="https://skillicons.dev/icons?i=git,figma,pycharm,vscode&theme=dark" />
+
+  <!-- Ícone manual do Oracle -->
+  <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle" width="40" height="40" style="margin-left: 5px;" />
+
+  <!-- Ícone manual do BigPanda (logo improvisado como imagem) -->
+  <img src="https://assets-global.website-files.com/5ed76f3dd6c971a9c744b7ae/600af1be5c9f391b7ccf2c3c_bigpanda-logo.svg" alt="BigPanda" width="90" height="40" style="margin-left: 5px;" />
+</p>
+
 
 ---
 
@@ -66,3 +76,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9F7AEA&height=150&section=footer"/>
 </p>
+
+![snake gif](https://github.com/Luis-droid-poing/Luis-droid-poing/blob/output/github-contribution-grid-snake.svg)
