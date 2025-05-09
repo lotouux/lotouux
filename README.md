@@ -77,4 +77,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9F7AEA&height=150&section=footer"/>
 </p>
 
-![snake gif](https://github.com/Luis-droid-poing/Luis-droid-poing/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lotouux/lotouux/blob/output/github-contribution-grid-snake.svg)
