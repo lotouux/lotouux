@@ -55,10 +55,15 @@
 
 ## Projetos em Destaque
 
+<div align="center">
+
 | Projeto         | Descrição                     | Status             |
 |-----------------|-------------------------------|--------------------|
-| **Planix**| App de controle financeiro     | Em desenvolvimento |
+| **Planix**       | App de controle financeiro     | Em desenvolvimento |
 | **Portfólio Web** | Página pessoal de apresentação | Em breve           |
+
+</div>
+
 
 ---
 
