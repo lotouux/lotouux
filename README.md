@@ -15,7 +15,13 @@
 ---
 
 ## Linguagens
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript&theme=dark" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript&theme=dark" />
+  
+  <!-- Ícone manual do SQL -->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sql.svg" alt="SQL" width="60" height="40" style="margin-left: 5px;" />
+</p>
+
 
 ---
 
@@ -23,19 +29,21 @@
 <p align="center">
   <!-- Ícones do SkillIcons -->
   <img src="https://skillicons.dev/icons?i=git,figma,pycharm,vscode&theme=dark" />
-
+  
   <!-- Ícone manual do Oracle -->
-  <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle" width="40" height="40" style="margin-left: 5px;" />
-
-  <!-- Ícone manual do BigPanda (logo improvisado como imagem) -->
-  <img src="https://assets-global.website-files.com/5ed76f3dd6c971a9c744b7ae/600af1be5c9f391b7ccf2c3c_bigpanda-logo.svg" alt="BigPanda" width="90" height="40" style="margin-left: 5px;" />
+  <img src="https://raw.githubusercontent.com/goranvasic/svg-logos/main/oracle-logo.svg" alt="Oracle" width="60" height="40" style="margin-left: 5px;" />
+  
+  <!-- Ícone manual do BigPanda -->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bigpanda.svg" alt="BigPanda" width="90" height="40" style="margin-left: 5px;" />
 </p>
-
 
 ---
 
 ## Frameworks
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+</p>
+
 
 ---
 
