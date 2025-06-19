@@ -2,7 +2,7 @@
 
 # 🌷 Hello World, I'm Beatriz! 🌷
 
-### 💻 Computer Science Student | Process Automation Intern | Passionate about Technology and AI  
+### 💻 Analysis and Systems Development Student | Process Automation Intern | Passionate about Technology and AI  
 ### 📍 Santo André - SP | Brazil 🇧🇷 | Open to remote work 🌎
 
 ---
