@@ -31,7 +31,7 @@
 
 ## 🚀 Featured Projects
 
-- [Planix](https://github.com/lotouux/planix) – Financial control app (in development)  
+- [Planix](https://github.com/lotouux/dashboard_planix) – Financial control app (in development)  
 - [Portfolio Web](https://github.com/lotouux/portfolio) – Personal portfolio website (coming soon
 
 ---
