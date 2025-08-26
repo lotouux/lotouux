@@ -24,8 +24,21 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css,git,vscode,figma,pycharm,idea,nodejs,sql&theme=dark" />
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css,nodejs,sql&theme=dark" alt="Languages" style="margin:5px;" />
 </p>
+
+<p align="center">
+  <!-- IDEs e ferramentas -->
+  <img src="https://skillicons.dev/icons?i=,vscode,phpstorm,pycharm,idea,git,github,figma&theme=dark" alt="IDEs & Tools" style="margin:5px;" />
+</p>
+
+<p align="center">
+  <!-- Bancos de dados -->
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" style="margin:5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle" width="40" style="margin:5px;" />
+</p>
+
 
 ---
 
