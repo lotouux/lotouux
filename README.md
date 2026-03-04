@@ -51,8 +51,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lotouux&show_icons=true&theme=dracula" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotouux&layout=compact&theme=dracula" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lotouux&show_icons=true&theme=dracula" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lotouux&layout=compact&theme=dracula" />
 </div>
 
 ---
