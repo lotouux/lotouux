@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,pycharm,idea,git,github,figma&theme=dark" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,pycharm,idea,git,github,figma,androidstudio&theme=dark" style="margin:5px;" />
 </p>
 
 <p align="center">
