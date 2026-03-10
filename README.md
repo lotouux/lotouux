@@ -27,7 +27,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css,nodejs,kotlin&theme=dark" style="margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css,nodejs,kotlin,swift&theme=dark" style="margin:5px;" />
 </p>
 
 <p align="center">
@@ -43,7 +43,6 @@
 
 ## 🚀 Featured Projects
 
-- [**Planix**](https://github.com/lotouux/dashboard_planix) – Financial control app (in development)  
 - [**Portfolio Web**](https://github.com/lotouux/portfolio) – Personal portfolio website (coming soon)
 
 ---
