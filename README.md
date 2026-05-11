@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌷 Hello World, I'm Beatriz! 🌷
+# 🌷 Beatriz Camargo Serafini | Software Developer 🌷
 
 ### 💻 Analysis and Systems Development Student | Process Automation Intern | Passionate about Technology and AI  
 ### 📍 Santo André - SP | Brazil 🇧🇷 | Open to remote work 🌎
