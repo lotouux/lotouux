@@ -41,12 +41,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- [**Portfolio Web**](https://github.com/lotouux/portfolio) – Personal portfolio website (coming soon)
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
