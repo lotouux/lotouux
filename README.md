@@ -25,26 +25,22 @@
   <img src="./assets/divider.svg" width="85%" alt="divider" />
 </p>
 
-<!-- ÍNDICE -->
+<!-- STACKS -->
 <p align="center">
   <img src="./assets/stacks-title.svg" width="85%" alt="Index" />
 </p>
 
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css,nodejs,kotlin,swift,react,vue&theme=dark" style="margin:5px;" />
+  <img src="./assets/inventory/inventory.svg"
+       width="860"
+       alt="TULIP OS Development Inventory" />
 </p>
 
+<!-- LINHA -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,pycharm,idea,git,github,figma,androidstudio&theme=dark" style="margin:5px;" />
+  <img src="./assets/divider.svg" width="85%" alt="divider" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" style="margin:5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="40" style="margin:5px;" />
-</p>
-
----
 
 ## 📈 GitHub Stats
 
