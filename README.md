@@ -25,7 +25,11 @@
   <img src="./assets/divider.svg" width="85%" alt="divider" />
 </p>
 
-## 🛠️ Languages & Tools
+<!-- ÍNDICE -->
+<p align="center">
+  <img src="./assets/stacks-title.svg" width="85%" alt="Index" />
+</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css,nodejs,kotlin,swift,react,vue&theme=dark" style="margin:5px;" />
