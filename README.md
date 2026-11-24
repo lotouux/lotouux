@@ -27,15 +27,19 @@
 
 <!-- STACKS -->
 <p align="center">
-  <img src="./assets/stacks-title.svg" width="85%" alt="Index" />
+  <img
+    src="./assets/stacks-title.svg"
+    width="85%"
+    alt="Stacks"
+  />
 </p>
 
 <!-- STACKS -->
 <p align="center">
   <img
-    src="./assets/stacks-title.svg"
-    width="85%"
-    alt="Stacks"
+    src="./assets/inventory/inventory.svg"
+    width="100%"
+    alt="TULIP OS — Development Inventory"
   />
 </p>
 
