@@ -30,11 +30,12 @@
   <img src="./assets/stacks-title.svg" width="85%" alt="Index" />
 </p>
 
+<!-- STACKS -->
 <p align="center">
   <img
-    src="./assets/inventory/inventory.svg"
-    width="100%"
-    alt="TULIP OS — Development Inventory"
+    src="./assets/stacks-title.svg"
+    width="85%"
+    alt="Stacks"
   />
 </p>
 
