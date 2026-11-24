@@ -1,0 +1,78 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="860"
+     height="76"
+     viewBox="0 0 860 76"
+     fill="none">
+
+  <defs>
+    <linearGradient id="window-bg" x1="0" y1="0" x2="860" y2="76">
+      <stop offset="0%" stop-color="#17151D"/>
+      <stop offset="100%" stop-color="#211821"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Window background -->
+  <rect x="1" y="1"
+        width="858" height="74"
+        fill="url(#window-bg)"
+        stroke="#8A4D69"
+        stroke-width="1.5"/>
+
+  <!-- Top accent line -->
+  <line x1="1" y1="2" x2="859" y2="2"
+        stroke="#D87FAD"
+        stroke-width="2"/>
+
+  <!-- Window controls -->
+  <circle cx="24" cy="25" r="5"
+          fill="#D87FAD"/>
+  <circle cx="43" cy="25" r="5"
+          fill="#A982B8"/>
+  <circle cx="62" cy="25" r="5"
+          fill="#6E3A52"/>
+
+  <!-- Window title -->
+  <text x="430" y="31"
+        text-anchor="middle"
+        font-family="Courier New, monospace"
+        font-size="16"
+        font-weight="bold"
+        letter-spacing="2"
+        fill="#D8D8E0">
+    TULIP // DEV INVENTORY
+  </text>
+
+  <!-- heart -->
+  <text x="830" y="30"
+        text-anchor="middle"
+        font-family="Courier New, monospace"
+        font-size="17"
+        fill="#D87FAD">
+    ♥
+  </text>
+
+  <!-- Header separator -->
+  <line x1="1" y1="48" x2="859" y2="48"
+        stroke="#6E3A52"
+        stroke-width="1"/>
+
+  <!-- Bottom subtitle -->
+  <text x="24" y="65"
+        font-family="Courier New, monospace"
+        font-size="10"
+        letter-spacing="1.5"
+        fill="#B98AAE">
+    TECHNOLOGY COLLECTION
+  </text>
+
+  <text x="836" y="65"
+        text-anchor="end"
+        font-family="Courier New, monospace"
+        font-size="10"
+        letter-spacing="1"
+        fill="#D87FAD">
+    [ 07 CATEGORIES ]
+  </text>
+
+</svg>
