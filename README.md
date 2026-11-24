@@ -1,28 +1,8 @@
 <div align="center">
 
-# 🌷 Beatriz Camargo Serafini | Software Developer 🌷
-
-### 💻 Analysis and Systems Development Student | Process Automation Intern | Passionate about Technology and AI  
-### 📍 Santo André - SP | Brazil 🇧🇷 | Open to remote work 🌎
-
----
-
-<table cellpadding="12" cellspacing="0" style="border-collapse: collapse; width: 700px; margin: auto; background-color:#f3e8f5;">
-  <tr>
-    <td style="padding:20px; text-align:left; color:#5A2E5E;">
-      <h4 style="color:#D87FAD;">🖍About Me</h4>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>Analysis and Systems Development at FIAP - Technology College in São Paulo, Brazil</li>
-        <li>Process Automation Intern at T-Systems Brasil</li>
-        <li>Intermediate English and Basic Spanish proficiency</li>
-        <li>Taking courses at Alura to deepen knowledge in Artificial Intelligence and Databases</li>
-        <li>Currently doing **Java courses by Oracle** to enhance programming skills</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
+<p align="center">
+  <img src="./assets/header.svg" alt="TULIP_OS Header" width="100%" />
+</p>
 
 ## 🛠️ Languages & Tools
 
