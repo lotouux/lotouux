@@ -49,12 +49,37 @@
 </p>
 
 <!-- PROJECTS -->
+<a id="02--projects"></a>
+
 <p align="center">
-  <img
-    src="./assets/projects-title.svg"
-    width="85%"
-    alt="Stacks"
-  />
+  <img src="./assets/projects-title.svg" width="85%" alt="Projects" />
+</p>
+
+<p align="center">
+  A few of my main projects.<br>
+  You can find more on <a href="https://linkedin.com">LinkedIn</a> or by exploring my GitHub profile.
+</p>
+
+
+<!-- PROJECT CARDS -->
+<p align="center">
+  <img src="./assets/projects/card-bmax.svg" width="31%" alt="B-MAX" />&nbsp;&nbsp;
+  <img src="./assets/projects/card-aguia.svg" width="31%" alt="Águia Branca Challenge" />&nbsp;&nbsp;
+  <img src="./assets/projects/card-orion.svg" width="31%" alt="ORION" />
+</p>
+
+
+<!-- PROJECT BUTTONS -->
+<p align="center"><img src="./assets/projects/spacer.svg" width="3.85%" alt="" /><a href="https://github.com"><img src="./assets/projects/btn-bmax-prototype.svg" width="13.6%" alt="Prototype" /></a><img src="./assets/projects/spacer.svg" width="1%" alt="" /><a href="https://github.com"><img src="./assets/projects/btn-bmax-ros2.svg" width="13.6%" alt="ROS2" /></a><img src="./assets/projects/spacer.svg" width="9.8%" alt="" /><a href="https://github.com"><img src="./assets/projects/btn-aguia-repo.svg" width="13.6%" alt="Águia Branca Repo" /></a><img src="./assets/projects/spacer.svg" width="17%" alt="" /><a href="https://github.com"><img src="./assets/projects/btn-orion-repo.svg" width="13.6%" alt="Orion Repo" /></a><img src="./assets/projects/spacer.svg" width="14%" alt="" /></p>
+
+
+
+
+<p align="center">
+  <br/>
+  <a href="https://linkedin.com">
+    <img src="./assets/projects/btn-linkedin.svg" width="75%" alt="Click here for more project details on LinkedIn" />
+  </a>
 </p>
 
 <!-- LINHA -->
