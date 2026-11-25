@@ -38,7 +38,7 @@
 <p align="center">
   <img
     src="./assets/inventory/inventory.svg"
-    width="85%"
+    width="90%"
     alt="TULIP OS — Development Inventory"
   />
 </p>
