@@ -25,6 +25,7 @@
   <img src="./assets/divider.svg" width="85%" alt="divider" />
 </p>
 
+
 <!-- STACKS -->
 <a id="#01--stacks"></a>
 
@@ -50,6 +51,7 @@
   <img src="./assets/divider.svg" width="85%" alt="divider" />
 </p>
 
+
 <!-- PROJECTS -->
 <a id="02--projects"></a>
 
@@ -61,14 +63,12 @@
   <img src="./assets/projects/description-text.svg" width="85%" alt="Projects" />
 </p>
 
-
 <!-- PROJECT CARDS -->
 <p align="center">
   <img src="./assets/projects/card-bmax.svg" width="31%" alt="B-MAX" />&nbsp;&nbsp;
   <img src="./assets/projects/card-aguia.svg" width="31%" alt="Águia Branca Challenge" />&nbsp;&nbsp;
   <img src="./assets/projects/card-orion.svg" width="31%" alt="ORION" />
 </p>
-
 
 <!-- PROJECT BUTTONS -->
 <p align="center"><img src="./assets/projects/spacer.svg" width="3.7%" alt="" /><a href="https://github.com/lotouux/B_MAX_Prototype"><img src="./assets/projects/btn-bmax-prototype.svg" width="13.5%" alt="Prototype Repo" /></a><img src="./assets/projects/spacer.svg" width="1.2%" alt="" /><a href="https://github.com/ArthurHenriquePS/B-MAX-ROS2"><img src="./assets/projects/btn-bmax-ros2.svg" width="13.5%" alt="ROS2 Repo" /></a><img src="./assets/projects/spacer.svg" width="10.6%" alt="" /><a href="https://github.com/lotouux/AguiaBranca_Challenge"><img src="./assets/projects/btn-aguia-repo.svg" width="15%" alt="Águia Branca Repo" /></a><img src="./assets/projects/spacer.svg" width="17.2%" alt="" /><a href="https://github.com/lotouux/GlobalSolution_SpaceConnect"><img src="./assets/projects/btn-orion-repo.svg" width="15%" alt="Orion Repo" /></a><img src="./assets/projects/spacer.svg" width="10.3%" alt="" /></p>
