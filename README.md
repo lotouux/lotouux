@@ -56,8 +56,7 @@
 </p>
 
 <p align="center">
-  A few of my main projects.<br>
-  You can find more on <a href="https://linkedin.com">LinkedIn</a> or by exploring my GitHub profile.
+  <img src="./assets/projects/description-text.svg" width="85%" alt="Projects" />
 </p>
 
 
