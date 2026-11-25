@@ -88,6 +88,10 @@
 <!-- STATS -->
 <a id="#03--stats"></a>
 
+<p align="center">
+  <img src="./assets/stats-title.svg" width="85%" alt="Stats" />
+</p>
+
 <!-- LINHA -->
 <p align="center">
   <img src="./assets/divider.svg" width="85%" alt="divider" />
@@ -95,6 +99,10 @@
 
 <!-- Contact -->
 <a id="#04--contact"></a>
+
+<p align="center">
+  <img src="./assets/contact-title.svg" width="85%" alt="Contact" />
+</p>
 
 <!-- LINHA -->
 <p align="center">
