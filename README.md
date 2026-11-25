@@ -70,14 +70,11 @@
 
 
 <!-- PROJECT BUTTONS -->
-<p align="center"><img src="./assets/projects/spacer.svg" width="3.85%" alt="" /><a href="https://github.com"><img src="./assets/projects/btn-bmax-prototype.svg" width="13.6%" alt="Prototype" /></a><img src="./assets/projects/spacer.svg" width="1%" alt="" /><a href="https://github.com"><img src="./assets/projects/btn-bmax-ros2.svg" width="13.6%" alt="ROS2" /></a><img src="./assets/projects/spacer.svg" width="9.8%" alt="" /><a href="https://github.com"><img src="./assets/projects/btn-aguia-repo.svg" width="13.6%" alt="Águia Branca Repo" /></a><img src="./assets/projects/spacer.svg" width="17%" alt="" /><a href="https://github.com"><img src="./assets/projects/btn-orion-repo.svg" width="13.6%" alt="Orion Repo" /></a><img src="./assets/projects/spacer.svg" width="14%" alt="" /></p>
-
-
-
+<p align="center"><img src="./assets/projects/spacer.svg" width="3.7%" alt="" /><a href="https://github.com/lotouux/B_MAX_Prototype"><img src="./assets/projects/btn-bmax-prototype.svg" width="13.5%" alt="Prototype Repo" /></a><img src="./assets/projects/spacer.svg" width="1.2%" alt="" /><a href="https://github.com/ArthurHenriquePS/B-MAX-ROS2"><img src="./assets/projects/btn-bmax-ros2.svg" width="13.5%" alt="ROS2 Repo" /></a><img src="./assets/projects/spacer.svg" width="10.6%" alt="" /><a href="https://github.com/lotouux/AguiaBranca_Challenge"><img src="./assets/projects/btn-aguia-repo.svg" width="15%" alt="Águia Branca Repo" /></a><img src="./assets/projects/spacer.svg" width="17.2%" alt="" /><a href="https://github.com/lotouux/GlobalSolution_SpaceConnect"><img src="./assets/projects/btn-orion-repo.svg" width="15%" alt="Orion Repo" /></a><img src="./assets/projects/spacer.svg" width="10.3%" alt="" /></p>
 
 <p align="center">
   <br/>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/beatriz-camargo-serafini/details/projects/">
     <img src="./assets/projects/btn-linkedin.svg" width="75%" alt="Click here for more project details on LinkedIn" />
   </a>
 </p>
