@@ -48,13 +48,19 @@
   <img src="./assets/divider.svg" width="85%" alt="divider" />
 </p>
 
+<!-- PROJECTS -->
+<p align="center">
+  <img
+    src="./assets/projects-title.svg"
+    width="85%"
+    alt="Stacks"
+  />
+</p>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lotouux&show_icons=true&theme=dracula" />
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lotouux&layout=compact&theme=dracula" />
-</div>
+<!-- LINHA -->
+<p align="center">
+  <img src="./assets/divider.svg" width="85%" alt="divider" />
+</p>
 
 ---
 
