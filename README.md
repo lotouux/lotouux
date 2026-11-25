@@ -85,23 +85,35 @@
   <img src="./assets/divider.svg" width="85%" alt="divider" />
 </p>
 
-<!-- STATS -->
-<a id="#03--stats"></a>
+<a id="03--stats"></a>
 
-<p align="center">
-  <img src="./assets/stats-title.svg" width="85%" alt="Stats" />
+<p align="center"> 
+  <img src="./assets/stats-title.svg" width="85%" alt="Stats" /> 
 </p>
+  <p align="center"> 
+    <img src="./assets/stats/stats.svg" width="85%" alt="TULIP OS — GitHub stats" /> 
+  </p> 
 
-<!-- LINHA -->
-<p align="center">
-  <img src="./assets/divider.svg" width="85%" alt="divider" />
-</p>
+<!-- LINHA --> 
+<p align="center"> 
+  <img src="./assets/divider.svg" width="85%" alt="divider" /> 
+</p> 
 
-<!-- Contact -->
-<a id="#04--contact"></a>
+<!-- CONTACT -->
+<a id="04--contact"></a>
 
-<p align="center">
-  <img src="./assets/contact-title.svg" width="85%" alt="Contact" />
+<p align="center"> 
+  <img src="./assets/contact-title.svg" width="85%" alt="Contact" /> 
+</p> 
+<p align="center"> 
+  <img src="./assets/contact/contact.svg" width="85%" alt="Contact" /> 
+</p> 
+<p align="center"> <a href="https://www.linkedin.com/in/beatriz-camargo-serafini-b8b667349/">
+  <img src="./assets/contact/btn-linkedin.svg" width="210" alt="LinkedIn" />
+</a>&nbsp; 
+  <a href="mailto:beatriz.c.serafini@gmail.com">
+  <img src="./assets/contact/btn-email.svg" width="210" alt="Email" />
+</a> 
 </p>
 
 <!-- LINHA -->
