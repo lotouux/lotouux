@@ -26,6 +26,8 @@
 </p>
 
 <!-- STACKS -->
+<a id="#01--stacks"></a>
+
 <p align="center">
   <img
     src="./assets/stacks-title.svg"
@@ -83,23 +85,18 @@
   <img src="./assets/divider.svg" width="85%" alt="divider" />
 </p>
 
----
+<!-- STATS -->
+<a id="#03--stats"></a>
 
-## 📬 Contact
-
+<!-- LINHA -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/beatriz-camargo-serafini-b8b667349/">
-    <img src="https://img.shields.io/badge/LinkedIn-D87FAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <img src="./assets/divider.svg" width="85%" alt="divider" />
+</p>
 
-  <a href="mailto:beatriz.c.serafini@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D87FAD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  
-  <!-- Adicionar portifólio web -->
-  <!--
-  <a href="https://meuportfólio.com">
-    <img src="https://img.shields.io/badge/Portfolio-E6CFE6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  -->
+<!-- Contact -->
+<a id="#04--contact"></a>
+
+<!-- LINHA -->
+<p align="center">
+  <img src="./assets/divider.svg" width="85%" alt="divider" />
 </p>
